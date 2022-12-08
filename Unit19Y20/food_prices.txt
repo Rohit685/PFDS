@@ -1,0 +1,11 @@
+Food ID,Food Item,Price,Quantity Sold
+1,Sushi,$3.99,35
+2,Burrito,$9.99,27
+3,Taco,2.$99,85
+4,Quesadilla,$4.25,76
+5,Pizza,$2.49,54
+6,Pasta,$13.99,32
+7,Steak,$24.99,29
+8,Salad,$11.25,36
+9,Donut,$0.99,24
+10,Drink,$1.75,96
